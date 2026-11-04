@@ -1,8 +1,8 @@
 # Hi, I'm Anakin Jaywalker 👋
 
-### ⚡ Electronics Engineering Graduate | 📐 CAD & 3D Modeling | 🎮 Game Dev | 🎨 Digital Art & 📈 Marketing
+### ⚡ Electronics Engineering Undergraduate | 📐 CAD & 3D Modeling | 🎮 Game Dev | 🎨 Digital Art & 📈 Marketing
 
-I am an **Electronics Engineering graduate** who loves bridging the gap between technical precision and creative expression. With a strong engineering foundation, I am fluent in **CAD and parametric 3D design (AutoCAD, Autodesk Fusion)** as well as **artistic 3D modeling and stylized game development (Blender, Godot)**, while continuously exploring **digital 2D art** and **marketing**.
+I am an **Electronics Engineering undergraduate** who loves bridging the gap between technical precision and creative expression. With a strong engineering foundation, I am fluent in **CAD and parametric 3D design (AutoCAD, Autodesk Fusion)** as well as **artistic 3D modeling and stylized game development (Blender, Godot)**, while continuously exploring **digital 2D art** and **marketing**.
 
 ---
 
