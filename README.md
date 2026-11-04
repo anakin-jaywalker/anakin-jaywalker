@@ -1,39 +1,30 @@
 # Hi, I'm Anakin Jaywalker 👋
 
-### 🎮 Indie Game Developer & 3D Technical Artist
-Focused on creating **stylized low-poly game assets**, **real-time cel-shaded art pipelines**, and **historically authentic medieval character systems**.
+### ⚡ Electronics Engineering Graduate | 🎮 Game Dev & 3D Modeling | 🎨 Digital Art & 📈 Marketing
+
+I am an **Electronics Engineering graduate** who loves bridging the gap between technical logic and creative expression. While my academic roots are in electronics and engineering problem-solving, I actively dabble in **indie game development**, **3D character modeling**, and **stylized shading pipelines**, while continuously learning and expanding into **digital art** and **marketing**.
 
 ---
 
-## 🛠️ Tech Stack & Disciplines
+## 🌟 What I'm Exploring & Building
+
+- ⚡ **Engineering & Problem Solving**: Applying analytical thinking, systems design, and technical problem-solving to creative software.
+- 🎮 **Game Dev & 3D Modeling**: Creating stylized, low-poly character pipelines, modular clothing systems, rigging, and real-time cel shaders in Blender and game engines.
+- 🎨 **Digital Art**: Learning 2D illustration, visual storytelling, character design, and color theory.
+- 📈 **Marketing & Growth**: Studying digital marketing, branding, audience engagement, and product positioning for creative projects.
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Electronics_Engineering-F7DF1E?style=for-the-badge&logoColor=black" alt="Electronics Engineering" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-- **3D Modeling & Pipeline**: Low-poly character modeling, non-destructive modifier stacks, modular UV mapping, vertex-color stepped shading.
-- **Stylized Shading**: Real-time anime NPR (Non-Photorealistic Rendering) cel shaders, inverted-hull toon outlines, multi-layered 2D eye & mouth shaders.
-- **Rigging & Animation**: Rigify metarig integration, retargeted bipedal bone hierarchies, zero-clipping cloth weighting, cross-gender shape keys.
-- **Historical Fidelity**: 13th–14th century European medieval civilian & villager attire (linen coifs, braies, chemises, tunics).
-
----
-
-## ⚔️ Featured Project: Medieval Cel-Shaded Character Pipeline
-
-A modular, four-character medieval asset suite built in Blender for stylized indie game development:
-
-- **Universal Topology & Cross-Gender Rigs**: Seamless morphing between Standard Male, Standard Female, Heroic Male, and Heroic Female proportions via synchronized shape keys.
-- **Historical Clothing Layers**:
-  - **Linen Coif**: Tied under-chin linen headwear with nape drape.
-  - **Linen Braies**: Loose medieval drawers/breeches with authentic split-crotch patterning.
-  - **Inner Shirt**: Lightweight hip-length linen undershirt with front V-slit.
-  - **Linen Tunic**: Mid-thigh unisex tunic with mobility side vents.
-  - **Linen Smock**: Long peasant chemise dress with flared side gores.
-- **Optimized for Real-Time Engines**: Clean edge flow, low polygon budgets, and zero inter-mesh clipping during dynamic combat and locomotion cycles.
 
 ---
 
@@ -49,6 +40,5 @@ A modular, four-character medieval asset suite built in Blender for stylized ind
 ---
 
 <p align="center">
-  <i>"May the code and vertices be with you."</i>
+  <i>"Blending engineering logic with creative craft."</i>
 </p>
-
